@@ -2,3 +2,6 @@
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+title: SBC Link
+description: A small bundle of links to find OS downloads for specific SBCs
